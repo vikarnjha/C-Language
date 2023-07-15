@@ -9,5 +9,5 @@ void main()
    printf("Enter second number=");
    scanf("%d", &num2);
    printf("Addition of %d and %d is %d", num1,num2,(num1+num2));
-   return 0;
+   return num1;
 }
